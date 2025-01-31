@@ -3,8 +3,7 @@ import tweepy
 import json
 import os
 from dotenv import load_dotenv
-from keep_alive import keep_alive
-keep_alive()
+
 # Load environment variables
 load_dotenv()
 
